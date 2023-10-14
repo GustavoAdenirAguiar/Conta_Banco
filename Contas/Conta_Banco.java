@@ -1,3 +1,4 @@
+package Contas;
 public class Conta_Banco {
     // Atributos
     public int numConta;
